@@ -1,6 +1,6 @@
 <?php
 
-class Family extends Shooter
+class Family
 {
   public $peopleCount = 3;
   public $surname = 'Smith';
